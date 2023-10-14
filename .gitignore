@@ -4,9 +4,9 @@
 *.xd
 *.fig
 
-
+task.md
 .DS_Store
-task.md/
+
 node_modules/
 dist/
 .cache/
