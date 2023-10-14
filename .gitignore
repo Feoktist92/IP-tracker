@@ -6,9 +6,8 @@
 
 
 .DS_Store
-
+task.md/
 node_modules/
 dist/
 .cache/
 .vercel/
-.task.md
