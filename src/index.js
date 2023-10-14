@@ -51,5 +51,5 @@ function setInfo(mapData) {
 }
 
 document.addEventListener('DOMContentLoaded', () => {
-    getAddress('102.122.22.1').then(setInfo);
+    getAddress('8.8.8.8').then(setInfo);
 });
